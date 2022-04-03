@@ -1,4 +1,4 @@
-package JavaEstudos;
+package JavaEstudos; 													//Primeiro projeto em Java do meu Git
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -31,3 +31,4 @@ public class ConversorString {
 		Entrada.close();												// sempre fechar o escaner
 	}
 }
+
